@@ -22,7 +22,7 @@ const sendEmail = sendEmailSchemaBase.fork(['subject', 'email'], (field) =>
 );
 
 const sendEmailSchema = {
-    sendEmail
+    sendEmail,
 };
 
 export default sendEmailSchema;

@@ -39,7 +39,6 @@ const emailField = createStringField(
         'string.pattern.base': 'Please fill a valid email address.',
     });
 
-
 const validationService = {
     createStringField,
     emailField,
