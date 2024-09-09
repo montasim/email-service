@@ -1,27 +1,27 @@
-[//]: # 'EMAIL SERVICE'
+[//]: # 'SEND EMAIL MICROSERVICE'
 
-# <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=175&height=40&lines=EMAIL+SERVICE" alt="EMAIL SERVICE" />
+# <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=325&height=40&lines=SEND+EMAIL+MICROSERVICE" alt="SEND EMAIL MICROSERVICE" />
 
 [![]()]()
 
 <!-- GitHub actions badges start -->
 <div>
-    <img loading="lazy" alt="Continuous Integration" src="https://github.com/montasim/email-service/actions/workflows/ci.yml/badge.svg?labelColor=EB008B&color=00B8B5">
-    <img loading="lazy" alt="Build on Merge" src="https://github.com/montasim/email-service/actions/workflows/build-on-merge.yml/badge.svg?labelColor=EB008B&color=00B8B5">
-    <img loading="lazy" alt="Automated Release Workflow for PR Merges" src="https://github.com/montasim/email-service/actions/workflows/create-release.yml/badge.svg?labelColor=EB008B&color=00B8B5">
+    <img loading="lazy" alt="Continuous Integration" src="https://github.com/montasim/send-email-microservice/actions/workflows/ci.yml/badge.svg?labelColor=EB008B&color=00B8B5">
+    <img loading="lazy" alt="Build on Merge" src="https://github.com/montasim/send-email-microservice/actions/workflows/build-on-merge.yml/badge.svg?labelColor=EB008B&color=00B8B5">
+    <img loading="lazy" alt="Automated Release Workflow for PR Merges" src="https://github.com/montasim/send-email-microservice/actions/workflows/create-release.yml/badge.svg?labelColor=EB008B&color=00B8B5">
 </div>
 <!-- GitHub actions badges end -->
 
 <!-- repository summary badges start -->
 <div>
     <img alt="Wakatime coding time badge" src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c/project/018e21fa-6cc2-477a-be0c-b5e44ca67f1c.svg?labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub release" src="https://img.shields.io/github/release/montasim/email-service?labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/montasim/email-service?labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/montasim/email-service?labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/montasim/email-service?labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/montasim/email-service?labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/montasim/email-service?labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub license" src="https://img.shields.io/github/license/montasim/email-service?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub release" src="https://img.shields.io/github/release/montasim/send-email-microservice?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/montasim/send-email-microservice?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/montasim/send-email-microservice?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/montasim/send-email-microservice?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/montasim/send-email-microservice?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/montasim/send-email-microservice?labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub license" src="https://img.shields.io/github/license/montasim/send-email-microservice?labelColor=EB008B&color=00B8B5">
 </div>
 <!-- repository summary badges end -->
 
@@ -78,8 +78,8 @@ Ensure you have `Node.js` and `Yarn` installed by running `node -v` and `yarn -v
 1. **Clone the repository and navigate to the directory:**
 
     ```bash
-    git clone https://github.com/montasim/email-service.git
-    cd email-service
+    git clone https://github.com/montasim/send-email-microservice.git
+    cd send-email-microservice
     ```
 
 2. **Install the dependencies:**
@@ -228,7 +228,7 @@ Ensure you have `Node.js` and `Yarn` installed by running `node -v` and `yarn -v
 
 ## <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=112&height=40&lines=6.+HOSTING" alt="6. HOSTING" id="6-hosting" />
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/montasim/email-service)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/montasim/send-email-microservice)
 
 <details>
     <summary>
@@ -243,7 +243,7 @@ Vercel is the recommended option for hosting the files since it is free and easy
 3.  Sign in with GitHub by pressing `Continue with GitHub`.
     ![Sign in with GitHub](https://files.catbox.moe/18vwjq.png)
 4.  Sign in to GitHub and allow access to all repositories if prompted.
-5.  [Fork this repo.](https://github.com/montasim/email-service/fork)
+5.  [Fork this repo.](https://github.com/montasim/send-email-microservice/fork)
 6.  Go back to your [Vercel dashboard](https://vercel.com/dashboard).
 7.  To import a project, click the `Add New...` button and select the `Project` option.
     ![Add new project](https://files.catbox.moe/h1a87z.png)
@@ -309,7 +309,7 @@ Please read the [contribution guidelines](CONTRIBUTION.md) and [contributor lice
 
 ## <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=185&height=40&lines=14.+CONTRIBUTORS" alt="14. CONTRIBUTORS" id="14-contributors" />
 
-<img loading="lazy" src="https://badges.pufler.dev/contributors/montasim/email-service?size=50&padding=5&perRow=10&bots=true" alt="contributors" />
+<img loading="lazy" src="https://badges.pufler.dev/contributors/montasim/send-email-microservice?size=50&padding=5&perRow=10&bots=true" alt="contributors" />
 
 <br/>
 
